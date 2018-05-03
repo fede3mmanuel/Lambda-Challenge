@@ -89,4 +89,8 @@ function computeUserAverageAge(users) {
 }
 
 module.exports = {
+ helloWorld,
+ lambdaSchool,
+ longestString,
+ computeUserAverageAge
 };
